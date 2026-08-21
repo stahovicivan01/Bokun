@@ -34,4 +34,4 @@ npm run build
 
 ## Screenshot
 
-![Bokun overview](public/screenshot.svg)
+![Bokun overview](public/screenshot-new.svg)

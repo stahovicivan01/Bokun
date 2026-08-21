@@ -1,0 +1,94 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#0F172A"/>
+
+  <defs>
+    <linearGradient id="headerGlow" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A120D"/>
+      <stop offset="0.5" stop-color="#2F1D15"/>
+      <stop offset="1" stop-color="#120D0B"/>
+    </linearGradient>
+    <linearGradient id="cardGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FBBF24" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#EF4444" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="160" fill="url(#headerGlow)"/>
+  <rect x="80" y="40" width="1440" height="250" rx="32" fill="#16181B" fill-opacity="0.18" stroke="#FBBF24" stroke-opacity="0.2"/>
+
+  <text x="120" y="100" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="6">MENU</text>
+  <text x="120" y="155" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Bokun</text>
+  <rect x="1280" y="110" width="170" height="42" rx="21" fill="#10B981" fill-opacity="0.15" stroke="#86EFAC" stroke-opacity="0.4"/>
+  <circle cx="1312" cy="131" r="8" fill="#6EE7B7"/>
+  <text x="1336" y="138" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Open now</text>
+
+  <rect x="120" y="230" width="610" height="160" rx="24" fill="url(#cardGlow)" stroke="#FBBF24" stroke-opacity="0.2"/>
+  <text x="150" y="270" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CHEF'S SPECIAL</text>
+  <text x="150" y="320" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Citrus Salmon Bowl</text>
+  <text x="150" y="355" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Seared salmon with brown rice, edamame, avocado, and a bright citrus glaze.</text>
+  <rect x="150" y="382" width="120" height="40" rx="20" fill="#FBBF24"/>
+  <text x="180" y="408" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">View details</text>
+  <rect x="285" y="382" width="138" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.2"/>
+  <text x="312" y="408" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Add to order</text>
+
+  <rect x="760" y="230" width="760" height="160" rx="24" fill="#111827" fill-opacity="0.55" stroke="#F8FAFC" stroke-opacity="0.12"/>
+  <rect x="790" y="260" width="160" height="100" rx="18" fill="#FFFFFF" fill-opacity="0.04" stroke="#FBBF24" stroke-opacity="0.16"/>
+  <text x="826" y="300" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">DISHES</text>
+  <text x="840" y="336" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">6</text>
+
+  <rect x="968" y="260" width="160" height="100" rx="18" fill="#FFFFFF" fill-opacity="0.04" stroke="#FBBF24" stroke-opacity="0.16"/>
+  <text x="1012" y="300" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">OPEN</text>
+  <text x="1016" y="336" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">7:00</text>
+
+  <rect x="1146" y="260" width="160" height="100" rx="18" fill="#FFFFFF" fill-opacity="0.04" stroke="#FBBF24" stroke-opacity="0.16"/>
+  <text x="1180" y="300" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">ORDERS</text>
+  <text x="1190" y="336" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">8</text>
+
+  <rect x="1324" y="260" width="160" height="100" rx="18" fill="#FFFFFF" fill-opacity="0.04" stroke="#FBBF24" stroke-opacity="0.16"/>
+  <text x="1380" y="300" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">LIVE</text>
+  <text x="1377" y="336" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">6</text>
+
+  <rect x="120" y="430" width="980" height="60" rx="20" fill="#0F172A" stroke="#334155"/>
+  <text x="160" y="467" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="24">Search by dish name</text>
+  <rect x="1120" y="430" width="240" height="60" rx="20" fill="#0F172A" stroke="#334155"/>
+  <text x="1168" y="467" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22">All</text>
+
+  <rect x="120" y="520" width="1240" height="390" rx="30" fill="#0F172A" fill-opacity="0.7" stroke="#334155"/>
+
+  <g>
+    <rect x="150" y="550" width="340" height="260" rx="24" fill="#111827" stroke="#334155"/>
+    <rect x="164" y="562" width="312" height="148" rx="18" fill="#FBBF24" fill-opacity="0.16"/>
+    <rect x="182" y="718" width="120" height="18" rx="9" fill="#475569"/>
+    <rect x="182" y="750" width="200" height="16" rx="8" fill="#334155"/>
+    <rect x="182" y="774" width="170" height="16" rx="8" fill="#334155"/>
+    <rect x="294" y="608" width="116" height="32" rx="16" fill="#FDE68A" fill-opacity="0.22"/>
+    <text x="322" y="630" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Bowls</text>
+  </g>
+
+  <g>
+    <rect x="520" y="550" width="340" height="260" rx="24" fill="#111827" stroke="#334155"/>
+    <rect x="534" y="562" width="312" height="148" rx="18" fill="#F97316" fill-opacity="0.12"/>
+    <rect x="552" y="718" width="120" height="18" rx="9" fill="#475569"/>
+    <rect x="552" y="750" width="200" height="16" rx="8" fill="#334155"/>
+    <rect x="552" y="774" width="170" height="16" rx="8" fill="#334155"/>
+    <rect x="664" y="608" width="126" height="32" rx="16" fill="#FDBA74" fill-opacity="0.2"/>
+    <text x="694" y="630" fill="#FDBA74" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Pasta</text>
+  </g>
+
+  <g>
+    <rect x="890" y="550" width="340" height="260" rx="24" fill="#111827" stroke="#334155"/>
+    <rect x="904" y="562" width="312" height="148" rx="18" fill="#F43F5E" fill-opacity="0.12"/>
+    <rect x="922" y="718" width="120" height="18" rx="9" fill="#475569"/>
+    <rect x="922" y="750" width="200" height="16" rx="8" fill="#334155"/>
+    <rect x="922" y="774" width="170" height="16" rx="8" fill="#334155"/>
+    <rect x="1034" y="608" width="128" height="32" rx="16" fill="#F9A8D4" fill-opacity="0.18"/>
+    <text x="1066" y="630" fill="#F9A8D4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Tacos</text>
+  </g>
+
+  <rect x="1200" y="520" width="160" height="390" rx="28" fill="#111827" stroke="#334155"/>
+  <rect x="1228" y="550" width="104" height="140" rx="18" fill="#FBBF24" fill-opacity="0.16"/>
+  <text x="1245" y="730" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Pasta</text>
+  <text x="1242" y="768" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Truffle Mushroom Pasta</text>
+  <rect x="1242" y="790" width="78" height="32" rx="16" fill="#FDE68A" fill-opacity="0.18"/>
+  <text x="1260" y="812" fill="#FDE68A" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">$19.75</text>
+</svg>
