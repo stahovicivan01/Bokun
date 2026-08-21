@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dish-101",
+    "name": "Citrus Salmon Bowl",
+    "category": "Bowls",
+    "description": "Seared salmon with brown rice, edamame, avocado, and a bright citrus glaze.",
+    "location": "Kitchen 2 · Grill",
+    "price": 22.5,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80",
+    "tags": ["salmon", "healthy", "bowl"]
+  },
+  {
+    "id": "dish-102",
+    "name": "Truffle Mushroom Pasta",
+    "category": "Pasta",
+    "description": "Creamy parmesan pasta folded with roasted mushrooms, garlic, and truffle oil.",
+    "location": "Kitchen 1 · Pasta Station",
+    "price": 19.75,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?auto=format&fit=crop&w=900&q=80",
+    "tags": ["comfort", "mushroom", "pasta"]
+  },
+  {
+    "id": "dish-103",
+    "name": "Firecracker Tacos",
+    "category": "Tacos",
+    "description": "Crispy tacos filled with spiced chicken, slaw, pickled onion, and chili-lime crema.",
+    "location": "Kitchen 3 · Taco Bar",
+    "price": 16.0,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=900&q=80",
+    "tags": ["spicy", "street food", "chicken"]
+  },
+  {
+    "id": "dish-104",
+    "name": "Garden Burrata Salad",
+    "category": "Salads",
+    "description": "Fresh greens, heirloom tomatoes, basil, burrata, and a lemon vinaigrette.",
+    "location": "Cold Station · Salad Bar",
+    "price": 14.5,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
+    "tags": ["fresh", "vegetarian", "light"]
+  },
+  {
+    "id": "dish-105",
+    "name": "Lemon Herb Chicken",
+    "category": "Entrees",
+    "description": "Roasted chicken breast with herb butter, seasonal vegetables, and garlic potatoes.",
+    "location": "Kitchen 2 · Main Line",
+    "price": 24.0,
+    "stock": 17,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=900&q=80",
+    "tags": ["classic", "chicken", "family style"]
+  },
+  {
+    "id": "dish-106",
+    "name": "Dark Chocolate Tart",
+    "category": "Desserts",
+    "description": "Rich chocolate ganache tart with sea salt flakes and whipped cream.",
+    "location": "Pastry Station",
+    "price": 11.25,
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=900&q=80",
+    "tags": ["dessert", "chocolate", "sweet"]
+  }
+]
