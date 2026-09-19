@@ -1,23 +1,22 @@
-# Bokun
+# Bokun Pašticerije
 
-A responsive React app for a restaurant menu that loads menu data from a local JSON file, allows visitors to search by dish name, filter by category, and view detailed information for each dish.
+A small, responsive vanilla JavaScript bakery catalogue for Bokun Pašticerije at Ulica Slatkih snova 12, owned by Lara Stahović. The app fetches pastry records from a local JSON file and lets visitors search, filter, and inspect item details.
 
 ## Features
 
-- Search by dish name
-- Filter by food category
-- Loading indicator while menu data is being fetched
-- Validation for array/object data with clear error handling
-- Empty state for no matching results
+- Search by pastry name
+- Filter by pastry category
+- Loading and recoverable error states
+- Empty state when a search has no matches
 - Responsive Tailwind layout for desktop and mobile screens
-- Detail panel for selected menu items
+- Detail panel with real-valued price and stock fields
 
 ## Project structure
 
-- `public/data/items.json` — restaurant menu data source
-- `src/App.jsx` — menu finder UI and data-loading logic
-- `src/index.css` — Tailwind import and global styling
-- `public/screenshot.svg` — restaurant-themed mockup
+- `public/data/items.json` — bakery data source
+- `src/main.js` — DOM rendering, JSON loading, search, filters, and details
+- `src/index.css` — Tailwind import and bakery visual styling
+- `public/screenshot.svg` — project preview image
 
 ## Run locally
 
@@ -25,6 +24,8 @@ A responsive React app for a restaurant menu that loads menu data from a local J
 npm install
 npm run dev
 ```
+
+Open the local URL printed by Vite. The production build can be deployed to any static host (for example Netlify, Vercel, or GitHub Pages) after running `npm run build`; publish the generated `dist` directory.
 
 ## Build
 
